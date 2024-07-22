@@ -105,6 +105,9 @@ AetherSX2 is an emulator of the PS Two console for the Android platform. You can
 ## Where is the APK?
 There is **no APK for download**. AetherSX2 is only distributed via the play store.
 
+APK from playstore deleted, You can try NetherSX2
+https://github.com/mininxd/NetherSX2/releases/
+
 ## What are the requirements?
 The console is an **extremely** complex piece of hardware, with many very powerful components, even for today. You need a high end device to achieve good performance.
 
