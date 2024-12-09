@@ -2,6 +2,8 @@
 
 ### NEW Updates
 
+At this time we have completely abandoned the old devices, we will continue to try to make another emulator but only a modern emulator, and also a modern device so later we will no longer support 32 bit devices
+
 AetherSX2 development is indefinitely suspended.
 Due to neverending impersonating, complaints, demands, and now death threats, I'm done.
 
@@ -14,11 +16,6 @@ Stay safe out there, and watch out for scammers, there seems to be a lot of them
 (e.g. there's multiple people claiming to represent AetherSX2 on various social media - they are not legit)
 
 Thanks to everyone who wasn't a d*ck for the last year.
-
-Current build downloads are still available at https://www.aethersx2.com/archive/ - please follow good security hygiene and don't install APKs from random sources.
-
-Update 2023/01/10: I no longer have any active online presence in any community. Anyone claiming to be Tahlreth, or represent AetherSX2, is impersonating and scamming you.
-I hope the threats and hate will stop now.
 
 ---
 
